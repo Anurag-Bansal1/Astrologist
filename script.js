@@ -4,4 +4,4 @@ function ghostimage() { document.getElementById("Ghost").style.backgroundImage =
 
 function RemoveItself(elem) { elem.parentNode.removeChild(elem);}
 
-function pranktext(){ document.getElementById("text-change").innerHTML = "<br><p style='font-family:'Nosifer', cursive; font-weight:bold;color:red;font-size:70px;'>Your Computer Got Virus!</p>";}
+function pranktext(){ document.getElementById("text-change").innerHTML = "<br><br><p style='font-family:'Nosifer', cursive; font-weight:bold;color:red;font-size:70px;'>Your Computer Got Virus!</p>";}
