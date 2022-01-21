@@ -14,7 +14,8 @@ button {
    background-color:black;
 }
 #full-sized-div {
-   margin-right:0;
+   width:100%;
+   height:auto;
 }
 #full-sized-div p {
    width:75%;
