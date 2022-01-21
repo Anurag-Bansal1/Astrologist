@@ -14,10 +14,11 @@ button {
    background-color:black;
 }
 #full-sized-div {
+   width:100%;
    margin:0;
 }
 #full-sized-div p {
-   font-size:100%;
+   font-size:75%;
 }
 #centered-div {
    text-align:center;
