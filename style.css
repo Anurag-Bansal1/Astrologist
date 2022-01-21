@@ -12,6 +12,8 @@ button {
    border-width:25px;
    color:cyan;
    background-color:black;
+   width:50%;
+   height:auto;
 }
 #centered-div {
    text-align:center;
