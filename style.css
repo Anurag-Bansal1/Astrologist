@@ -22,7 +22,7 @@ button {
    background-repeat: no-repeat;
    background-position: center;
    background-attachment: fixed;
-   background-size: auto;
+   background-size:auto 100%;
 }
 @font-face {
    font-family: Nosifer;
