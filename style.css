@@ -4,8 +4,8 @@ html {
 p {
    color:white;
    text-align:center;
-   font-family:Mosteri;
-   font-size:100%;
+   width:100%;
+   height:auto;
 }
 button {
    border-style:ridge;
