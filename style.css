@@ -13,6 +13,12 @@ button {
    color:cyan;
    background-color:black;
 }
+#full-sized-div {
+   margin:0;
+}
+#full-sized-div p {
+   font-size:100%;
+}
 #centered-div {
    text-align:center;
 }
