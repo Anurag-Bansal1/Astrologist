@@ -20,6 +20,7 @@ button {
 #full-sized-div p {
    width:75%;
    height:auto;
+   text-align:center;
 }
 #centered-div {
    text-align:center;
