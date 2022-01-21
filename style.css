@@ -20,3 +20,7 @@ button {
     background-attachment: fixed;
     background-size: auto;
 }
+@font-face {
+  font-family: Nosifer;
+  src: url('Nosifer Text.ttf');
+}
