@@ -1,26 +1,30 @@
 html {
-    background-color:black; 
-    }
+   background-color:black;
+}
 p {
-    color:white;
-    text-align:center;
-    }
+   color:white;
+   text-align:center;
+}
 button {
-    border-style:ridge;
-    border-width:25px;
-    color:cyan;
-    background-color:black;
-    }
+   border-style:ridge;
+   border-width:25px;
+   color:cyan;
+   background-color:black;
+}
 #centered-div {
-    text-align:center;
-    }
+   text-align:center;
+}
 #Ghost {
-    background-repeat: no-repeat;
-    background-position: center;
-    background-attachment: fixed;
-    background-size: auto;
+   background-repeat: no-repeat;
+   background-position: center;
+   background-attachment: fixed;
+   background-size: auto;
 }
 @font-face {
-  font-family: Nosifer;
-  src: url('Nosifer Text.ttf');
+   font-family: Nosifer;
+   src: url('Nosifer Text.ttf');
+}
+@font-face {
+   font-family: Mosteri;
+   src: url('Mosteri Text.ttf')
 }
