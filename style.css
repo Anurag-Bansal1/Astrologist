@@ -15,7 +15,8 @@ button {
 }
 #full-sized-div {
    width:100%;
-   margin:0;
+   margin-left:0;
+   margin-right:0;
 }
 #full-sized-div p {
    width:75%;
