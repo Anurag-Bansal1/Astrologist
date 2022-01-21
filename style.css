@@ -13,15 +13,6 @@ button {
    color:cyan;
    background-color:black;
 }
-#full-sized-div {
-   width:100%;
-   height:auto;
-   text-align:center;
-}
-#full-sized-div p {
-   width:75%;
-   height:auto;
-}
 #centered-div {
    text-align:center;
 }
