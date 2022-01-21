@@ -1,6 +1,6 @@
 function playAudio() { document.getElementById("prank-audio").play();}
 
-function ghostimage() { document.getElementById("Ghost").style.backgroundImage = "https://i.imgur.com/KZrKk.gif";}
+function ghostimage() { document.getElementById("Ghost").style.backgroundImage = "url('Ghost.gif')";}
 
 function RemoveItself(elem) { elem.parentNode.removeChild(elem);}
 
