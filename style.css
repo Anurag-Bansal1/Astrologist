@@ -18,7 +18,8 @@ button {
    margin:0;
 }
 #full-sized-div p {
-   font-size:75%;
+   width:75%;
+   height:auto;
 }
 #centered-div {
    text-align:center;
