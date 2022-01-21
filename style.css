@@ -5,6 +5,7 @@ p {
    color:white;
    text-align:center;
    font-family:Mosteri;
+   width:100%;
 }
 button {
    border-style:ridge;
