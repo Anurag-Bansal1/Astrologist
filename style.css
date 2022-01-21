@@ -17,7 +17,6 @@ button {
     text-align:center;
     }
 #Ghost {
-    background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
     background-size: auto;
